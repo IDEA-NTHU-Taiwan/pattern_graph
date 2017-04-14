@@ -1,0 +1,11 @@
+this builds a graph
+this builds a graph from a text file
+each line on the text file should contain only tokens
+each line should contain tokens separated by a space
+separated by a a single space
+weights of the arcs are only counts
+should add the count of every node as well
+maybe later will do
+maybe later someone will do
+
+ 
